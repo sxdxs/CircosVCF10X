@@ -1,0 +1,11 @@
+Package: CircosVCF10x
+Type: Package
+Title: Convert 10X Genomics VCF to common Circos formats
+Version: 0.1.0
+Author: Tim Chappell
+Maintainer: The package maintainer <timchappell@uga.edu>
+Description: For use in RCircos or other circos plotting programs. Translocations() prompts for .csv, outputs linked segments from VCF format. Quality defaults to remove low scoring breakend points.
+    Other functions will be coming in version 0.1.1. Outputs .csv.
+License: open to add & expand
+Encoding: UTF-8
+LazyData: true
